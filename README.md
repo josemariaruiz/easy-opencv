@@ -23,9 +23,9 @@ This installation guide will use PIP and not the standard packages of Ubuntu. Yo
 
 Once you have these three packages installed you will be can enter into the directory where you cloned this repository and just execute:
 
-  $ fab -l
+    $ fab -l
 
-  Fabric tasks for installing an updated and completely functional version of OpenCV in Ubuntu.
+    Fabric tasks for installing an updated and completely functional version of OpenCV in Ubuntu.
 
   Available commands:
 
