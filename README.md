@@ -27,17 +27,17 @@ Once you have these three packages installed you will be can enter into the dire
 
     Fabric tasks for installing an updated and completely functional version of OpenCV in Ubuntu.
 
-  Available commands:
+    Available commands:
 
-    cmake
-    compile
-    compile_opencv
-    download_opencv
-    ffmpeg                  Remove the default ubuntu packages of ffmpeg and install the la...
-    full_install
-    install_ffmpeg          Install last vers...
-    install_x264            Install last ve...
-    remove_ffmpeg_packages
-  $
+        cmake
+        compile
+        compile_opencv
+        download_opencv
+        ffmpeg                  Remove the default ubuntu packages of ffmpeg and install the la...
+        full_install
+        install_ffmpeg          Install last vers...
+        install_x264            Install last ve...
+        remove_ffmpeg_packages
+    $
 
 
