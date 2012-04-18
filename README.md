@@ -1,5 +1,8 @@
+easy-opencv
+===========
+
 Why?
----------------
+----
 
 Installing OpenCV correctly in Ubuntu is a hell.
 
