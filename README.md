@@ -41,3 +41,18 @@ Once you have these three packages installed you will be can enter into the dire
     $
 
 
+You will need to first install the `ffmpeg` library correctly from sources:
+
+    $ fab ffmpeg
+
+And then install the OpenCV library:
+
+    $ fab full_install
+
+If everything went right you should be able to load the `cv` module in python
+
+    >>> import cv
+    >>>
+
+That's all :D
+
