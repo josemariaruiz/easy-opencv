@@ -1,3 +1,6 @@
+Why?
+---------------
+
 Installing OpenCV correctly in Ubuntu is a hell.
 
 This is why I have created this Fabric script for setting the right dependencies and compiling OpenCV from sources.
